@@ -1,2 +1,2 @@
 # appsFlyer API bulk reporting
-Downloading partners_by_date_report for all your Apps
+Downloading partners_by_date_report for all your Apps using Node.JS

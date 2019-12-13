@@ -10,23 +10,10 @@ let converter = require('json-2-csv');
 const appID = [
     "id1012933748",
     "id1078289048",
-    "fr.betstars.betstars",
-    "id1410133949",
-    "id1472570816",
-    "com.pyrsoftware.pokerstars.in",
-    "id1448478295",
-    "id897137765",
-    "id1434043599",
-    "id1454778152",
-    "id1198223998",
-    "id533787554",
-    "id497361777",
-    "com.pyrsoftware.pokerstars.fr",
-    "id1384897952",
-    "com.pokerstars.uk",
     "id509469724",
     "id515257559",
     "id1468868278"
+    ...
 ];
 
 
@@ -41,7 +28,7 @@ date = yyyy + '-' + mm + '-' + dd;
 
 
 const reportType = 'partners_by_date_report';  // OR 'partners_report'
-const apiToken = '4729ed79-2add-42f7-939e-9f6dd1c1f000';
+const apiToken = 'ENTER API KEY';
 const from = '2019-12-19'; // YYYY-MM-DD (Change date range here if different from yesterday)
 const to = date; // YYYY-MM-DD (Change date range here if different from yesterday)
 

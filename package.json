@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "json-2-csv": "^3.5.7",
+    "json-2-csv": "^3.20.0",
     "path": "^0.12.7",
     "request": "^2.88.0"
   }
